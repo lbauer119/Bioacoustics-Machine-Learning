@@ -227,10 +227,11 @@ def main():
             print("True labels ", y_true)
             print("Predicted labels ",y_pred)
             print("\n")
+
 	    conf = confusion_matrix(y_true, y_pred) 
 	    print("The confusion matrix\n")
-
 	    print(conf)
+	    
             total_acc += float(correct)/float(len(Y)) 
             print("\n")
             print("--------------------------------------")
