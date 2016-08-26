@@ -125,7 +125,7 @@ def main():
  
 
 
-    with open('ds1vs2r1_results_newline.csv', 'wb') as csvfile:
+    with open('results.csv', 'wb') as csvfile:
             writer = csv.writer(csvfile)
 
             X_o = (X_orig)
