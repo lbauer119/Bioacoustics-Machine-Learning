@@ -77,7 +77,7 @@ def main():
  
 
     #Prints to csv file for all iterations of kfolds
-    with open('ds2r2_results_newline.csv', 'wb') as csvfile:
+    with open('results.csv', 'wb') as csvfile:
         writer = csv.writer(csvfile)
  
 
