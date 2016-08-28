@@ -26,7 +26,7 @@ def main():
     Z = np.array(Z)
 
 
-    #Read in our lengths
+    #Read in our lengths of each call
     L = []
     inp = open('SW1_labels_events.txt')
     for t in inp:
