@@ -1,4 +1,4 @@
-#Script to learn sequences of vectors that correspond to calls. 
+#Script to learn sequences of vectors that correspond to calls, using k-fold cross-validation. 
 
 from __future__ import print_function
 import math
