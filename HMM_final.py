@@ -1,3 +1,5 @@
+#Script to learn sequences of vectors that correspond to calls. 
+
 from __future__ import print_function
 import math
 import csv
