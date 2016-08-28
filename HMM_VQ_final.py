@@ -1,3 +1,5 @@
+#Script to learn sequences of integer within a VQ vector that correspond to calls. 
+
 from __future__ import print_function
 import math
 import numpy as np
